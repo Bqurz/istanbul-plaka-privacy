@@ -1,0 +1,28 @@
+# GitHub Token ve Secrets
+*.token
+*.key
+*.secret
+*.env
+.env*
+*credentials*
+*secrets*
+ghp_*
+ghs_*
+github_token*
+git_token*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
